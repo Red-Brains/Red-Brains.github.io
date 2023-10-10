@@ -1,0 +1,16 @@
+{
+  "name": "Red Brains - The Digital Infrastructure Company",
+  "short_name": "redbrains",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#dc2626",
+  "background_color": "#ffffff",
+
+  "icons": [
+    {
+      "src": "brain.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
