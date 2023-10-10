@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="w-full bg-white shadow-sm py-3">
       <div className="max-w-4xl md:mx-auto mx-3 flex justify-between items-baseline">
         <Link href="/">
-          <h1 className="font-bold text-xl">
+          <h1 className="font-extrabold text-xl">
             <span className="text-red-600">R</span>edBrains.
           </h1>
         </Link>
